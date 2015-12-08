@@ -1,5 +1,5 @@
 {
-  "name": "hubot-slack",
+  "name": "@grand_pubba/hubot-slack",
   "version": "3.4.2",
   "description": "A Slack adapter for hubot",
   "main": "./index",
@@ -22,7 +22,7 @@
     "url": "https://github.com/slackhq/hubot-slack/issues"
   },
   "dependencies": {
-    "slack-client": "git@github.com:GrandPubba/node-slack-client.git"
+    "@grand_pubba/slack-client": "1.5.0-1"
   },
   "devDependencies": {
     "coffee-script": "~1.7.1",
